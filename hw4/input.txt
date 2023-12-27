@@ -1,0 +1,4 @@
+password1
+P@ssw0rd2
+abcd1234
+StrongPassword!123
