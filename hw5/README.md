@@ -13,7 +13,6 @@ Before running the code, ensure that you have the following packages installed:
 -   `os`
 -   `sys`
 -   `understand`
-```
 
 ## Installation
 
