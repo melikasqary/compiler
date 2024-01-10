@@ -1,5 +1,3 @@
-# Project Name
-
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://beta.theb.ai/LICENSE)
 
 ## Description
